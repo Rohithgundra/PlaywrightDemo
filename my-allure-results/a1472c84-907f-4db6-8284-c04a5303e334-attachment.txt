@@ -1,0 +1,3 @@
+[AsyncFunction: innerHTML]
+[AsyncFunction: innerText]
+[AsyncFunction: allTextContents]

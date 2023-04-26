@@ -1,0 +1,1 @@
+[{"uid":"8c720097baff0bf2","name":"FullPageAccessibilityTest","time":{"start":1681660284345,"stop":1681660297545,"duration":13200},"status":"failed","severity":"normal"},{"uid":"cc92d3a1237251c8","name":"TargetElementScan","time":{"start":1681660284359,"stop":1681660295490,"duration":11131},"status":"passed","severity":"normal"}]

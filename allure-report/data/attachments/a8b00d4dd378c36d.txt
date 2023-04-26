@@ -1,0 +1,1 @@
+HTML report was saved into the following directory /home/rohithreddy/Playwright/DemoProj/axe-reports/TargetElementScan.html

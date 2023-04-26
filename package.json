@@ -1,0 +1,27 @@
+{
+  "name": "demoproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "execute": "npx playwright test",
+    "debug": "npx playwright test --debug",
+    "test": "npx playwright test ./tests/Rohith.spec.ts",
+    "report": "npx playwright show-report",
+    "allure-report":"allure generate my-allure-results -o allure-report --clean && allure open allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@axe-core/playwright": "^4.6.1",
+    "@playwright/test": "^1.32.3",
+    "allure-commandline": "^2.21.0",
+    "allure-playwright": "^2.1.0",
+    "axe-html-reporter": "^2.2.3",
+    "playwright": "^1.32.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
